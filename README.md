@@ -1,8 +1,10 @@
 # Voting — Solana On-Chain Voting Program
 
-This is an academic project developed as part of the **Solana Bootcamp 2026**. It implements a decentralized voting system as a Solana smart contract (program) using the Anchor framework.
+This is a Solana project that implements a decentralized voting system as a Solana program (a.k.a. smart contract) using the Anchor framework.
 
 The goal of the project is to learn and demonstrate core Solana development concepts: program-derived accounts (PDAs), on-chain state management, instruction handlers, time-based access control, and integration testing with a local Solana virtual machine. Users can create polls, register candidates, and cast votes—all recorded transparently on the blockchain.
+
+This project was inspired by the **[Solana Bootcamp 2026](https://youtu.be/2pcm7ICRJKU?si=lL9ysIcQUAv114Km)**.
 
 ## Features
 
